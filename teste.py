@@ -1,6 +1,6 @@
-BASE = int(input('FORNEÇA A BASE DO RETANGULO: '))
+BASE = float(input('FORNEÇA A BASE DO RETANGULO: '))
 
-ALTURA = int(input('FORNEÇA A ALTURA DO RETANGULO: '))
+ALTURA = float(input('FORNEÇA A ALTURA DO RETANGULO: '))
 
 area = (f'A área do retângulo é {BASE * ALTURA}. ')
 
